@@ -1,24 +1,24 @@
 :root {
-    --color-background: white;
-    --color-on-background: black;
-    --color-background-hover: #eee;
-    --color-on-background-hover: black;
-    --color-primary: #0066ff;
-    --color-on-primary: white;
+    --color-background: papayawhip;
+    --color-on-background: rgb(99, 102, 91);
+    --color-background-hover: #ffff5f;
+    --color-on-background-hover: rgb(0, 140, 255);
+    --color-primary: #f596f5;
+    --color-on-primary: rgb(97, 47, 5);
     --color-error: #de0000;
-    --color-on-error: white;
+    --color-on-error: rgb(94, 0, 0);
 }
 
 main.dark,
 header.dark {
     color-scheme: dark;
-    --color-background: #1c1b1f;
-    --color-on-background: white;
+    --color-background: #1a3a37;
+    --color-on-background: rgb(255, 153, 0);
     --color-background-hover: #27262c;
-    --color-on-background-hover: white;
-    --color-primary: #283593;
-    --color-primary-disabled: #1f213c;
-    --color-on-primary: white;
+    --color-on-background-hover: rgb(47, 37, 48); 
+    --color-primary: rgb(255, 153, 0);
+    --color-primary-disabled: #ff00f2; 
+    --color-on-primary: rgb(255, 192, 250);
     --color-error: #de0000;
     --color-on-error: white;
 }
