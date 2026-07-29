@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (however, FPS bypass is allowed)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -114,14 +114,16 @@ export default {
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
+                    
+                    <h3>Level Requirements</h3>
                     <p>
-                        Do not use secret routes or bug routes
+                        Must have "FOID" somewhere in the name or the level.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        At least 20 seconds in length.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Must be "decorated" to some extent, cannot be a simple layout.
                     </p>
                 </div>
             </div>
