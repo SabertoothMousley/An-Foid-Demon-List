@@ -3,7 +3,7 @@ import Leaderboard from './pages/Leaderboard.js';
 import Roulette from './pages/Roulette.js';
 
 export default [
-    { path: '/', component: List },
-    { path: '/leaderboard', component: Leaderboard },
-    { path: '/roulette', component: Roulette },
+    { path: '/An-Foid-Demon-List/', component: List },
+    { path: '/An-Foid-Demon-List/leaderboard', component: Leaderboard },
+    { path: '/An-Foid-Demon-List/roulette', component: Roulette },
 ];
